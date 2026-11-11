@@ -2,7 +2,7 @@
 
 Copy of the private Cargo site (testtestinternal.cargo.site, shown at dhruvsrivastava.com).
 
-- pages/index.html: open this in a browser to view every page offline with its images
+- index.html: opens the old home page (pages/Portfolio_Home.html); pages share pages/archive.css
 - markdown/: the copy of each page as Markdown, for rewriting
 - images/<page>/: all 153 original full-size images, grouped by the page that first uses them
 - cargo-site-export.json: raw Cargo page data (HTML content, image list, per-page CSS)
